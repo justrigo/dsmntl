@@ -5,7 +5,7 @@ description: to take a machine or structure to pieces.
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://justrigo.github.io/dsmntl/
 feed:
   path: atom.xml
 
