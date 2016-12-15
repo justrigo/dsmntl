@@ -1,3 +1,3 @@
-# Dismantle: To take (a machine or structure) to pieces. 
+# Dismantle: to take (a machine or structure) to pieces. 
 
-[description]
+[description tbd]
